@@ -6,7 +6,7 @@ This project is an end-to-end data analytics pipeline that analyzes customer int
 ## 📊 Dashboard Preview
 *(Note: The interactive dashboard was built in Tableau. Below is a static snapshot of the final visualization.)*
 
-![Tableau Dashboard](Screenshot%201948-05-13%20at%201.56.17%20PM.png)
+![Tableau Dashboard](dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
 * **Python:** Used for API interaction, data generation, and statistical summaries.

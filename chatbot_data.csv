@@ -1,0 +1,1001 @@
+Interaction_ID,Customer_ID,Date,Customer_Intent,Chat_Duration_Seconds,Customer_Sentiment,Resolution_Status
+1,926,2026-06-01 00:00:00,Product Inquiry,146,Positive,Pending
+2,376,2026-06-01 01:00:00,Billing Issue,87,Neutral,Pending
+3,378,2026-06-01 02:00:00,Technical Support,479,Negative,Escalated to Human
+4,372,2026-06-01 03:00:00,Technical Support,116,Positive,Escalated to Human
+5,212,2026-06-01 04:00:00,Technical Support,442,Neutral,Resolved
+6,600,2026-06-01 05:00:00,Password Reset,98,Neutral,Escalated to Human
+7,408,2026-06-01 06:00:00,Product Inquiry,461,Negative,Resolved
+8,464,2026-06-01 07:00:00,Product Inquiry,435,Positive,Pending
+9,970,2026-06-01 08:00:00,Password Reset,244,Neutral,Pending
+10,796,2026-06-01 09:00:00,Product Inquiry,548,Positive,Escalated to Human
+11,871,2026-06-01 10:00:00,Product Inquiry,451,Negative,Pending
+12,483,2026-06-01 11:00:00,Password Reset,107,Neutral,Escalated to Human
+13,542,2026-06-01 12:00:00,Refund Request,343,Negative,Escalated to Human
+14,896,2026-06-01 13:00:00,Refund Request,582,Neutral,Resolved
+15,289,2026-06-01 14:00:00,Password Reset,471,Neutral,Pending
+16,287,2026-06-01 15:00:00,Refund Request,77,Positive,Resolved
+17,472,2026-06-01 16:00:00,Technical Support,525,Positive,Pending
+18,408,2026-06-01 17:00:00,Refund Request,339,Positive,Resolved
+19,718,2026-06-01 18:00:00,Password Reset,410,Negative,Resolved
+20,349,2026-06-01 19:00:00,Password Reset,392,Positive,Pending
+21,772,2026-06-01 20:00:00,Product Inquiry,43,Positive,Pending
+22,907,2026-06-01 21:00:00,Refund Request,242,Negative,Pending
+23,980,2026-06-01 22:00:00,Password Reset,260,Positive,Pending
+24,847,2026-06-01 23:00:00,Password Reset,416,Neutral,Pending
+25,544,2026-06-02 00:00:00,Technical Support,437,Positive,Resolved
+26,333,2026-06-02 01:00:00,Technical Support,54,Positive,Escalated to Human
+27,142,2026-06-02 02:00:00,Password Reset,39,Positive,Pending
+28,749,2026-06-02 03:00:00,Billing Issue,38,Neutral,Resolved
+29,832,2026-06-02 04:00:00,Password Reset,172,Negative,Escalated to Human
+30,674,2026-06-02 05:00:00,Refund Request,65,Negative,Escalated to Human
+31,197,2026-06-02 06:00:00,Refund Request,438,Negative,Escalated to Human
+32,686,2026-06-02 07:00:00,Password Reset,297,Neutral,Pending
+33,158,2026-06-02 08:00:00,Product Inquiry,37,Positive,Resolved
+34,862,2026-06-02 09:00:00,Technical Support,302,Positive,Pending
+35,335,2026-06-02 10:00:00,Refund Request,34,Positive,Resolved
+36,706,2026-06-02 11:00:00,Technical Support,490,Positive,Resolved
+37,987,2026-06-02 12:00:00,Password Reset,244,Neutral,Pending
+38,386,2026-06-02 13:00:00,Technical Support,75,Negative,Resolved
+39,789,2026-06-02 14:00:00,Password Reset,546,Negative,Escalated to Human
+40,392,2026-06-02 15:00:00,Password Reset,248,Neutral,Pending
+41,444,2026-06-02 16:00:00,Password Reset,570,Neutral,Pending
+42,972,2026-06-02 17:00:00,Technical Support,223,Negative,Resolved
+43,706,2026-06-02 18:00:00,Password Reset,31,Neutral,Pending
+44,248,2026-06-02 19:00:00,Refund Request,315,Neutral,Resolved
+45,522,2026-06-02 20:00:00,Billing Issue,367,Positive,Pending
+46,324,2026-06-02 21:00:00,Product Inquiry,534,Negative,Escalated to Human
+47,632,2026-06-02 22:00:00,Technical Support,117,Neutral,Escalated to Human
+48,314,2026-06-02 23:00:00,Technical Support,442,Negative,Escalated to Human
+49,344,2026-06-03 00:00:00,Billing Issue,519,Neutral,Escalated to Human
+50,476,2026-06-03 01:00:00,Billing Issue,46,Neutral,Pending
+51,940,2026-06-03 02:00:00,Refund Request,369,Negative,Resolved
+52,871,2026-06-03 03:00:00,Password Reset,192,Neutral,Resolved
+53,884,2026-06-03 04:00:00,Billing Issue,86,Negative,Escalated to Human
+54,587,2026-06-03 05:00:00,Technical Support,326,Negative,Pending
+55,933,2026-06-03 06:00:00,Refund Request,250,Negative,Pending
+56,325,2026-06-03 07:00:00,Product Inquiry,306,Neutral,Resolved
+57,326,2026-06-03 08:00:00,Password Reset,464,Neutral,Pending
+58,485,2026-06-03 09:00:00,Technical Support,495,Negative,Resolved
+59,589,2026-06-03 10:00:00,Product Inquiry,432,Neutral,Resolved
+60,176,2026-06-03 11:00:00,Technical Support,323,Positive,Pending
+61,221,2026-06-03 12:00:00,Billing Issue,347,Negative,Resolved
+62,337,2026-06-03 13:00:00,Product Inquiry,184,Neutral,Pending
+63,942,2026-06-03 14:00:00,Password Reset,224,Neutral,Pending
+64,463,2026-06-03 15:00:00,Billing Issue,157,Neutral,Resolved
+65,373,2026-06-03 16:00:00,Billing Issue,341,Neutral,Escalated to Human
+66,259,2026-06-03 17:00:00,Billing Issue,61,Negative,Resolved
+67,785,2026-06-03 18:00:00,Product Inquiry,164,Positive,Pending
+68,978,2026-06-03 19:00:00,Product Inquiry,370,Negative,Pending
+69,959,2026-06-03 20:00:00,Refund Request,298,Negative,Escalated to Human
+70,757,2026-06-03 21:00:00,Billing Issue,73,Positive,Escalated to Human
+71,386,2026-06-03 22:00:00,Technical Support,312,Neutral,Resolved
+72,747,2026-06-03 23:00:00,Refund Request,303,Neutral,Pending
+73,816,2026-06-04 00:00:00,Technical Support,337,Positive,Resolved
+74,180,2026-06-04 01:00:00,Technical Support,490,Neutral,Pending
+75,187,2026-06-04 02:00:00,Refund Request,535,Positive,Pending
+76,109,2026-06-04 03:00:00,Password Reset,569,Negative,Escalated to Human
+77,616,2026-06-04 04:00:00,Technical Support,420,Positive,Escalated to Human
+78,258,2026-06-04 05:00:00,Product Inquiry,33,Neutral,Pending
+79,453,2026-06-04 06:00:00,Billing Issue,345,Neutral,Pending
+80,412,2026-06-04 07:00:00,Product Inquiry,537,Neutral,Pending
+81,190,2026-06-04 08:00:00,Billing Issue,238,Neutral,Pending
+82,913,2026-06-04 09:00:00,Refund Request,126,Positive,Resolved
+83,962,2026-06-04 10:00:00,Product Inquiry,288,Negative,Pending
+84,766,2026-06-04 11:00:00,Refund Request,61,Negative,Escalated to Human
+85,992,2026-06-04 12:00:00,Billing Issue,201,Positive,Escalated to Human
+86,439,2026-06-04 13:00:00,Technical Support,292,Positive,Pending
+87,558,2026-06-04 14:00:00,Password Reset,410,Neutral,Escalated to Human
+88,694,2026-06-04 15:00:00,Technical Support,490,Neutral,Pending
+89,159,2026-06-04 16:00:00,Technical Support,222,Negative,Resolved
+90,720,2026-06-04 17:00:00,Technical Support,80,Neutral,Escalated to Human
+91,725,2026-06-04 18:00:00,Product Inquiry,295,Positive,Escalated to Human
+92,502,2026-06-04 19:00:00,Refund Request,513,Neutral,Resolved
+93,144,2026-06-04 20:00:00,Refund Request,43,Positive,Escalated to Human
+94,621,2026-06-04 21:00:00,Technical Support,197,Positive,Escalated to Human
+95,290,2026-06-04 22:00:00,Password Reset,241,Neutral,Escalated to Human
+96,270,2026-06-04 23:00:00,Password Reset,287,Neutral,Pending
+97,232,2026-06-05 00:00:00,Technical Support,312,Positive,Pending
+98,644,2026-06-05 01:00:00,Billing Issue,395,Neutral,Resolved
+99,880,2026-06-05 02:00:00,Product Inquiry,147,Positive,Pending
+100,274,2026-06-05 03:00:00,Technical Support,504,Neutral,Resolved
+101,574,2026-06-05 04:00:00,Refund Request,102,Neutral,Resolved
+102,672,2026-06-05 05:00:00,Product Inquiry,182,Negative,Pending
+103,563,2026-06-05 06:00:00,Technical Support,388,Negative,Escalated to Human
+104,267,2026-06-05 07:00:00,Technical Support,357,Positive,Pending
+105,181,2026-06-05 08:00:00,Refund Request,52,Neutral,Resolved
+106,339,2026-06-05 09:00:00,Product Inquiry,363,Neutral,Resolved
+107,235,2026-06-05 10:00:00,Technical Support,352,Negative,Pending
+108,750,2026-06-05 11:00:00,Product Inquiry,345,Negative,Escalated to Human
+109,712,2026-06-05 12:00:00,Technical Support,501,Positive,Resolved
+110,951,2026-06-05 13:00:00,Refund Request,153,Negative,Escalated to Human
+111,864,2026-06-05 14:00:00,Billing Issue,82,Neutral,Resolved
+112,514,2026-06-05 15:00:00,Billing Issue,43,Positive,Resolved
+113,212,2026-06-05 16:00:00,Technical Support,576,Neutral,Resolved
+114,817,2026-06-05 17:00:00,Password Reset,108,Neutral,Escalated to Human
+115,597,2026-06-05 18:00:00,Password Reset,474,Negative,Escalated to Human
+116,318,2026-06-05 19:00:00,Password Reset,54,Neutral,Escalated to Human
+117,462,2026-06-05 20:00:00,Password Reset,518,Positive,Escalated to Human
+118,197,2026-06-05 21:00:00,Billing Issue,382,Neutral,Pending
+119,307,2026-06-05 22:00:00,Billing Issue,227,Negative,Resolved
+120,129,2026-06-05 23:00:00,Product Inquiry,574,Neutral,Escalated to Human
+121,685,2026-06-06 00:00:00,Password Reset,480,Negative,Escalated to Human
+122,267,2026-06-06 01:00:00,Technical Support,303,Neutral,Escalated to Human
+123,582,2026-06-06 02:00:00,Technical Support,553,Neutral,Pending
+124,435,2026-06-06 03:00:00,Product Inquiry,448,Positive,Pending
+125,176,2026-06-06 04:00:00,Billing Issue,134,Positive,Resolved
+126,309,2026-06-06 05:00:00,Refund Request,502,Positive,Pending
+127,586,2026-06-06 06:00:00,Billing Issue,67,Positive,Escalated to Human
+128,764,2026-06-06 07:00:00,Billing Issue,349,Negative,Pending
+129,389,2026-06-06 08:00:00,Refund Request,96,Positive,Pending
+130,657,2026-06-06 09:00:00,Password Reset,387,Negative,Resolved
+131,745,2026-06-06 10:00:00,Billing Issue,219,Neutral,Pending
+132,463,2026-06-06 11:00:00,Product Inquiry,337,Negative,Pending
+133,852,2026-06-06 12:00:00,Refund Request,590,Negative,Pending
+134,887,2026-06-06 13:00:00,Technical Support,282,Neutral,Escalated to Human
+135,186,2026-06-06 14:00:00,Refund Request,328,Negative,Resolved
+136,920,2026-06-06 15:00:00,Billing Issue,521,Negative,Escalated to Human
+137,869,2026-06-06 16:00:00,Refund Request,546,Positive,Pending
+138,682,2026-06-06 17:00:00,Password Reset,140,Negative,Pending
+139,795,2026-06-06 18:00:00,Technical Support,269,Positive,Pending
+140,481,2026-06-06 19:00:00,Password Reset,156,Neutral,Pending
+141,725,2026-06-06 20:00:00,Refund Request,466,Negative,Escalated to Human
+142,236,2026-06-06 21:00:00,Refund Request,551,Positive,Resolved
+143,287,2026-06-06 22:00:00,Product Inquiry,171,Negative,Resolved
+144,747,2026-06-06 23:00:00,Technical Support,312,Negative,Escalated to Human
+145,848,2026-06-07 00:00:00,Password Reset,133,Negative,Escalated to Human
+146,792,2026-06-07 01:00:00,Product Inquiry,149,Neutral,Pending
+147,646,2026-06-07 02:00:00,Refund Request,212,Negative,Resolved
+148,805,2026-06-07 03:00:00,Refund Request,404,Positive,Pending
+149,196,2026-06-07 04:00:00,Product Inquiry,597,Positive,Pending
+150,959,2026-06-07 05:00:00,Billing Issue,134,Negative,Escalated to Human
+151,217,2026-06-07 06:00:00,Refund Request,303,Negative,Pending
+152,392,2026-06-07 07:00:00,Password Reset,549,Positive,Escalated to Human
+153,637,2026-06-07 08:00:00,Product Inquiry,564,Neutral,Resolved
+154,294,2026-06-07 09:00:00,Refund Request,233,Negative,Escalated to Human
+155,220,2026-06-07 10:00:00,Product Inquiry,113,Neutral,Pending
+156,946,2026-06-07 11:00:00,Refund Request,101,Positive,Escalated to Human
+157,301,2026-06-07 12:00:00,Password Reset,58,Negative,Escalated to Human
+158,636,2026-06-07 13:00:00,Password Reset,82,Positive,Pending
+159,911,2026-06-07 14:00:00,Refund Request,300,Neutral,Pending
+160,401,2026-06-07 15:00:00,Password Reset,395,Neutral,Pending
+161,546,2026-06-07 16:00:00,Billing Issue,555,Positive,Escalated to Human
+162,485,2026-06-07 17:00:00,Password Reset,587,Negative,Escalated to Human
+163,278,2026-06-07 18:00:00,Billing Issue,208,Neutral,Escalated to Human
+164,941,2026-06-07 19:00:00,Password Reset,528,Positive,Resolved
+165,550,2026-06-07 20:00:00,Product Inquiry,241,Negative,Escalated to Human
+166,867,2026-06-07 21:00:00,Product Inquiry,412,Positive,Resolved
+167,105,2026-06-07 22:00:00,Technical Support,312,Negative,Pending
+168,702,2026-06-07 23:00:00,Refund Request,210,Positive,Escalated to Human
+169,325,2026-06-08 00:00:00,Password Reset,137,Positive,Escalated to Human
+170,525,2026-06-08 01:00:00,Billing Issue,61,Positive,Escalated to Human
+171,103,2026-06-08 02:00:00,Refund Request,454,Positive,Pending
+172,550,2026-06-08 03:00:00,Technical Support,342,Neutral,Resolved
+173,562,2026-06-08 04:00:00,Product Inquiry,288,Positive,Resolved
+174,456,2026-06-08 05:00:00,Product Inquiry,576,Positive,Resolved
+175,554,2026-06-08 06:00:00,Billing Issue,545,Positive,Pending
+176,458,2026-06-08 07:00:00,Technical Support,529,Neutral,Pending
+177,805,2026-06-08 08:00:00,Billing Issue,296,Neutral,Pending
+178,286,2026-06-08 09:00:00,Product Inquiry,149,Negative,Escalated to Human
+179,706,2026-06-08 10:00:00,Product Inquiry,45,Positive,Resolved
+180,850,2026-06-08 11:00:00,Product Inquiry,374,Negative,Escalated to Human
+181,788,2026-06-08 12:00:00,Refund Request,357,Neutral,Resolved
+182,728,2026-06-08 13:00:00,Billing Issue,165,Negative,Resolved
+183,175,2026-06-08 14:00:00,Refund Request,57,Negative,Pending
+184,196,2026-06-08 15:00:00,Refund Request,223,Negative,Resolved
+185,717,2026-06-08 16:00:00,Password Reset,116,Negative,Pending
+186,277,2026-06-08 17:00:00,Product Inquiry,186,Negative,Escalated to Human
+187,634,2026-06-08 18:00:00,Refund Request,38,Neutral,Escalated to Human
+188,850,2026-06-08 19:00:00,Billing Issue,471,Neutral,Escalated to Human
+189,306,2026-06-08 20:00:00,Technical Support,81,Negative,Resolved
+190,417,2026-06-08 21:00:00,Product Inquiry,148,Neutral,Resolved
+191,200,2026-06-08 22:00:00,Product Inquiry,377,Neutral,Pending
+192,931,2026-06-08 23:00:00,Refund Request,592,Neutral,Resolved
+193,234,2026-06-09 00:00:00,Refund Request,525,Negative,Escalated to Human
+194,235,2026-06-09 01:00:00,Billing Issue,159,Positive,Pending
+195,115,2026-06-09 02:00:00,Refund Request,292,Positive,Pending
+196,449,2026-06-09 03:00:00,Technical Support,541,Positive,Resolved
+197,356,2026-06-09 04:00:00,Product Inquiry,552,Negative,Escalated to Human
+198,336,2026-06-09 05:00:00,Technical Support,586,Negative,Escalated to Human
+199,346,2026-06-09 06:00:00,Billing Issue,537,Neutral,Resolved
+200,140,2026-06-09 07:00:00,Product Inquiry,191,Negative,Escalated to Human
+201,102,2026-06-09 08:00:00,Password Reset,488,Positive,Resolved
+202,791,2026-06-09 09:00:00,Refund Request,440,Positive,Resolved
+203,253,2026-06-09 10:00:00,Technical Support,279,Neutral,Escalated to Human
+204,169,2026-06-09 11:00:00,Refund Request,558,Positive,Escalated to Human
+205,386,2026-06-09 12:00:00,Password Reset,396,Neutral,Escalated to Human
+206,936,2026-06-09 13:00:00,Billing Issue,295,Positive,Escalated to Human
+207,708,2026-06-09 14:00:00,Billing Issue,507,Positive,Resolved
+208,890,2026-06-09 15:00:00,Password Reset,44,Negative,Pending
+209,115,2026-06-09 16:00:00,Product Inquiry,266,Positive,Resolved
+210,146,2026-06-09 17:00:00,Refund Request,287,Negative,Escalated to Human
+211,498,2026-06-09 18:00:00,Technical Support,545,Positive,Escalated to Human
+212,461,2026-06-09 19:00:00,Billing Issue,383,Neutral,Escalated to Human
+213,685,2026-06-09 20:00:00,Technical Support,472,Positive,Pending
+214,348,2026-06-09 21:00:00,Product Inquiry,549,Neutral,Resolved
+215,621,2026-06-09 22:00:00,Password Reset,45,Negative,Pending
+216,674,2026-06-09 23:00:00,Refund Request,543,Neutral,Pending
+217,411,2026-06-10 00:00:00,Password Reset,365,Neutral,Resolved
+218,972,2026-06-10 01:00:00,Billing Issue,214,Positive,Escalated to Human
+219,345,2026-06-10 02:00:00,Password Reset,389,Neutral,Pending
+220,526,2026-06-10 03:00:00,Refund Request,566,Positive,Escalated to Human
+221,762,2026-06-10 04:00:00,Product Inquiry,510,Negative,Pending
+222,582,2026-06-10 05:00:00,Refund Request,150,Neutral,Resolved
+223,819,2026-06-10 06:00:00,Billing Issue,568,Neutral,Escalated to Human
+224,127,2026-06-10 07:00:00,Refund Request,538,Neutral,Resolved
+225,689,2026-06-10 08:00:00,Password Reset,96,Negative,Resolved
+226,920,2026-06-10 09:00:00,Password Reset,193,Negative,Resolved
+227,292,2026-06-10 10:00:00,Technical Support,364,Neutral,Resolved
+228,778,2026-06-10 11:00:00,Product Inquiry,498,Negative,Escalated to Human
+229,428,2026-06-10 12:00:00,Billing Issue,579,Positive,Escalated to Human
+230,120,2026-06-10 13:00:00,Technical Support,129,Neutral,Resolved
+231,209,2026-06-10 14:00:00,Technical Support,248,Neutral,Escalated to Human
+232,845,2026-06-10 15:00:00,Product Inquiry,348,Positive,Pending
+233,174,2026-06-10 16:00:00,Password Reset,425,Neutral,Pending
+234,244,2026-06-10 17:00:00,Password Reset,192,Positive,Pending
+235,431,2026-06-10 18:00:00,Password Reset,30,Neutral,Escalated to Human
+236,132,2026-06-10 19:00:00,Refund Request,442,Neutral,Escalated to Human
+237,891,2026-06-10 20:00:00,Refund Request,487,Positive,Escalated to Human
+238,452,2026-06-10 21:00:00,Product Inquiry,60,Positive,Escalated to Human
+239,409,2026-06-10 22:00:00,Password Reset,316,Positive,Escalated to Human
+240,481,2026-06-10 23:00:00,Password Reset,67,Negative,Pending
+241,487,2026-06-11 00:00:00,Product Inquiry,82,Positive,Escalated to Human
+242,139,2026-06-11 01:00:00,Product Inquiry,418,Positive,Escalated to Human
+243,273,2026-06-11 02:00:00,Technical Support,100,Negative,Pending
+244,529,2026-06-11 03:00:00,Technical Support,477,Neutral,Escalated to Human
+245,429,2026-06-11 04:00:00,Billing Issue,452,Negative,Resolved
+246,175,2026-06-11 05:00:00,Refund Request,96,Positive,Pending
+247,774,2026-06-11 06:00:00,Password Reset,137,Neutral,Escalated to Human
+248,760,2026-06-11 07:00:00,Product Inquiry,313,Neutral,Resolved
+249,390,2026-06-11 08:00:00,Product Inquiry,124,Neutral,Resolved
+250,668,2026-06-11 09:00:00,Password Reset,457,Neutral,Resolved
+251,576,2026-06-11 10:00:00,Product Inquiry,219,Positive,Pending
+252,857,2026-06-11 11:00:00,Billing Issue,489,Neutral,Pending
+253,142,2026-06-11 12:00:00,Billing Issue,513,Positive,Escalated to Human
+254,642,2026-06-11 13:00:00,Product Inquiry,231,Negative,Escalated to Human
+255,260,2026-06-11 14:00:00,Refund Request,251,Positive,Pending
+256,577,2026-06-11 15:00:00,Refund Request,388,Positive,Pending
+257,112,2026-06-11 16:00:00,Technical Support,93,Neutral,Pending
+258,574,2026-06-11 17:00:00,Refund Request,104,Positive,Pending
+259,147,2026-06-11 18:00:00,Technical Support,224,Neutral,Escalated to Human
+260,492,2026-06-11 19:00:00,Refund Request,470,Positive,Pending
+261,985,2026-06-11 20:00:00,Refund Request,40,Negative,Escalated to Human
+262,926,2026-06-11 21:00:00,Product Inquiry,181,Neutral,Escalated to Human
+263,347,2026-06-11 22:00:00,Billing Issue,332,Neutral,Pending
+264,244,2026-06-11 23:00:00,Password Reset,359,Positive,Resolved
+265,678,2026-06-12 00:00:00,Refund Request,193,Positive,Pending
+266,841,2026-06-12 01:00:00,Product Inquiry,213,Positive,Escalated to Human
+267,255,2026-06-12 02:00:00,Password Reset,102,Negative,Resolved
+268,429,2026-06-12 03:00:00,Password Reset,178,Positive,Resolved
+269,355,2026-06-12 04:00:00,Product Inquiry,375,Negative,Escalated to Human
+270,192,2026-06-12 05:00:00,Product Inquiry,570,Negative,Pending
+271,956,2026-06-12 06:00:00,Billing Issue,525,Positive,Pending
+272,507,2026-06-12 07:00:00,Refund Request,309,Neutral,Escalated to Human
+273,147,2026-06-12 08:00:00,Technical Support,434,Positive,Escalated to Human
+274,950,2026-06-12 09:00:00,Refund Request,158,Positive,Resolved
+275,805,2026-06-12 10:00:00,Product Inquiry,143,Positive,Resolved
+276,371,2026-06-12 11:00:00,Billing Issue,479,Neutral,Resolved
+277,269,2026-06-12 12:00:00,Technical Support,236,Neutral,Escalated to Human
+278,446,2026-06-12 13:00:00,Refund Request,464,Positive,Resolved
+279,897,2026-06-12 14:00:00,Billing Issue,396,Neutral,Pending
+280,687,2026-06-12 15:00:00,Password Reset,506,Positive,Escalated to Human
+281,527,2026-06-12 16:00:00,Password Reset,40,Positive,Pending
+282,591,2026-06-12 17:00:00,Technical Support,116,Positive,Resolved
+283,272,2026-06-12 18:00:00,Technical Support,224,Negative,Resolved
+284,361,2026-06-12 19:00:00,Product Inquiry,46,Negative,Resolved
+285,832,2026-06-12 20:00:00,Technical Support,91,Neutral,Pending
+286,260,2026-06-12 21:00:00,Product Inquiry,400,Positive,Escalated to Human
+287,738,2026-06-12 22:00:00,Refund Request,479,Negative,Escalated to Human
+288,196,2026-06-12 23:00:00,Refund Request,306,Negative,Escalated to Human
+289,440,2026-06-13 00:00:00,Refund Request,118,Negative,Escalated to Human
+290,840,2026-06-13 01:00:00,Billing Issue,416,Negative,Resolved
+291,784,2026-06-13 02:00:00,Product Inquiry,32,Positive,Resolved
+292,553,2026-06-13 03:00:00,Product Inquiry,216,Neutral,Resolved
+293,869,2026-06-13 04:00:00,Technical Support,378,Neutral,Escalated to Human
+294,816,2026-06-13 05:00:00,Refund Request,257,Negative,Pending
+295,866,2026-06-13 06:00:00,Billing Issue,99,Positive,Escalated to Human
+296,754,2026-06-13 07:00:00,Technical Support,363,Negative,Pending
+297,850,2026-06-13 08:00:00,Refund Request,40,Positive,Resolved
+298,962,2026-06-13 09:00:00,Technical Support,456,Negative,Resolved
+299,948,2026-06-13 10:00:00,Password Reset,139,Positive,Escalated to Human
+300,460,2026-06-13 11:00:00,Billing Issue,479,Negative,Pending
+301,184,2026-06-13 12:00:00,Billing Issue,485,Neutral,Pending
+302,756,2026-06-13 13:00:00,Product Inquiry,272,Neutral,Resolved
+303,922,2026-06-13 14:00:00,Billing Issue,500,Negative,Escalated to Human
+304,830,2026-06-13 15:00:00,Password Reset,199,Neutral,Resolved
+305,594,2026-06-13 16:00:00,Product Inquiry,209,Negative,Resolved
+306,130,2026-06-13 17:00:00,Refund Request,492,Positive,Pending
+307,892,2026-06-13 18:00:00,Technical Support,489,Negative,Pending
+308,761,2026-06-13 19:00:00,Product Inquiry,320,Positive,Escalated to Human
+309,654,2026-06-13 20:00:00,Product Inquiry,370,Negative,Resolved
+310,124,2026-06-13 21:00:00,Product Inquiry,510,Negative,Escalated to Human
+311,986,2026-06-13 22:00:00,Password Reset,525,Negative,Escalated to Human
+312,708,2026-06-13 23:00:00,Product Inquiry,369,Positive,Resolved
+313,939,2026-06-14 00:00:00,Product Inquiry,275,Negative,Escalated to Human
+314,422,2026-06-14 01:00:00,Technical Support,63,Negative,Resolved
+315,751,2026-06-14 02:00:00,Password Reset,387,Negative,Escalated to Human
+316,811,2026-06-14 03:00:00,Billing Issue,158,Positive,Pending
+317,164,2026-06-14 04:00:00,Refund Request,463,Positive,Escalated to Human
+318,643,2026-06-14 05:00:00,Technical Support,168,Neutral,Resolved
+319,718,2026-06-14 06:00:00,Product Inquiry,176,Neutral,Escalated to Human
+320,806,2026-06-14 07:00:00,Product Inquiry,510,Neutral,Pending
+321,765,2026-06-14 08:00:00,Billing Issue,391,Negative,Resolved
+322,255,2026-06-14 09:00:00,Password Reset,150,Neutral,Escalated to Human
+323,823,2026-06-14 10:00:00,Password Reset,284,Positive,Pending
+324,908,2026-06-14 11:00:00,Technical Support,399,Negative,Pending
+325,846,2026-06-14 12:00:00,Refund Request,254,Neutral,Pending
+326,496,2026-06-14 13:00:00,Product Inquiry,59,Negative,Resolved
+327,195,2026-06-14 14:00:00,Product Inquiry,571,Positive,Pending
+328,582,2026-06-14 15:00:00,Refund Request,419,Negative,Pending
+329,413,2026-06-14 16:00:00,Billing Issue,79,Neutral,Pending
+330,250,2026-06-14 17:00:00,Product Inquiry,480,Neutral,Resolved
+331,592,2026-06-14 18:00:00,Refund Request,234,Neutral,Resolved
+332,684,2026-06-14 19:00:00,Technical Support,569,Negative,Pending
+333,920,2026-06-14 20:00:00,Refund Request,519,Negative,Resolved
+334,514,2026-06-14 21:00:00,Refund Request,536,Negative,Resolved
+335,553,2026-06-14 22:00:00,Refund Request,141,Neutral,Escalated to Human
+336,145,2026-06-14 23:00:00,Password Reset,153,Positive,Resolved
+337,149,2026-06-15 00:00:00,Password Reset,271,Neutral,Resolved
+338,746,2026-06-15 01:00:00,Product Inquiry,307,Positive,Escalated to Human
+339,231,2026-06-15 02:00:00,Technical Support,230,Negative,Escalated to Human
+340,616,2026-06-15 03:00:00,Billing Issue,286,Positive,Escalated to Human
+341,568,2026-06-15 04:00:00,Product Inquiry,386,Neutral,Pending
+342,519,2026-06-15 05:00:00,Product Inquiry,279,Neutral,Pending
+343,205,2026-06-15 06:00:00,Billing Issue,312,Negative,Escalated to Human
+344,534,2026-06-15 07:00:00,Product Inquiry,191,Neutral,Escalated to Human
+345,974,2026-06-15 08:00:00,Billing Issue,315,Positive,Escalated to Human
+346,942,2026-06-15 09:00:00,Billing Issue,284,Negative,Resolved
+347,251,2026-06-15 10:00:00,Billing Issue,112,Positive,Escalated to Human
+348,561,2026-06-15 11:00:00,Refund Request,85,Negative,Resolved
+349,203,2026-06-15 12:00:00,Product Inquiry,310,Positive,Pending
+350,723,2026-06-15 13:00:00,Product Inquiry,467,Neutral,Escalated to Human
+351,462,2026-06-15 14:00:00,Billing Issue,483,Positive,Resolved
+352,885,2026-06-15 15:00:00,Billing Issue,76,Neutral,Pending
+353,781,2026-06-15 16:00:00,Refund Request,333,Negative,Resolved
+354,861,2026-06-15 17:00:00,Billing Issue,280,Neutral,Pending
+355,526,2026-06-15 18:00:00,Billing Issue,555,Positive,Resolved
+356,114,2026-06-15 19:00:00,Product Inquiry,584,Negative,Escalated to Human
+357,480,2026-06-15 20:00:00,Billing Issue,348,Negative,Escalated to Human
+358,649,2026-06-15 21:00:00,Product Inquiry,191,Positive,Pending
+359,974,2026-06-15 22:00:00,Billing Issue,251,Negative,Escalated to Human
+360,359,2026-06-15 23:00:00,Technical Support,286,Positive,Escalated to Human
+361,478,2026-06-16 00:00:00,Product Inquiry,154,Negative,Escalated to Human
+362,285,2026-06-16 01:00:00,Billing Issue,318,Neutral,Resolved
+363,857,2026-06-16 02:00:00,Password Reset,251,Positive,Resolved
+364,428,2026-06-16 03:00:00,Billing Issue,443,Neutral,Pending
+365,291,2026-06-16 04:00:00,Product Inquiry,300,Positive,Escalated to Human
+366,759,2026-06-16 05:00:00,Refund Request,187,Negative,Resolved
+367,980,2026-06-16 06:00:00,Technical Support,501,Positive,Resolved
+368,427,2026-06-16 07:00:00,Password Reset,341,Negative,Escalated to Human
+369,812,2026-06-16 08:00:00,Refund Request,433,Neutral,Escalated to Human
+370,577,2026-06-16 09:00:00,Product Inquiry,363,Neutral,Escalated to Human
+371,819,2026-06-16 10:00:00,Technical Support,340,Neutral,Resolved
+372,134,2026-06-16 11:00:00,Product Inquiry,285,Positive,Escalated to Human
+373,709,2026-06-16 12:00:00,Password Reset,264,Neutral,Resolved
+374,109,2026-06-16 13:00:00,Refund Request,248,Positive,Pending
+375,878,2026-06-16 14:00:00,Technical Support,523,Positive,Escalated to Human
+376,767,2026-06-16 15:00:00,Product Inquiry,466,Neutral,Pending
+377,822,2026-06-16 16:00:00,Password Reset,580,Positive,Resolved
+378,130,2026-06-16 17:00:00,Refund Request,318,Positive,Pending
+379,541,2026-06-16 18:00:00,Refund Request,503,Negative,Pending
+380,161,2026-06-16 19:00:00,Billing Issue,163,Neutral,Resolved
+381,117,2026-06-16 20:00:00,Product Inquiry,351,Neutral,Escalated to Human
+382,447,2026-06-16 21:00:00,Refund Request,386,Neutral,Resolved
+383,306,2026-06-16 22:00:00,Password Reset,167,Positive,Pending
+384,781,2026-06-16 23:00:00,Refund Request,502,Negative,Escalated to Human
+385,292,2026-06-17 00:00:00,Product Inquiry,195,Positive,Escalated to Human
+386,650,2026-06-17 01:00:00,Technical Support,231,Negative,Resolved
+387,546,2026-06-17 02:00:00,Product Inquiry,287,Neutral,Pending
+388,479,2026-06-17 03:00:00,Billing Issue,416,Positive,Resolved
+389,161,2026-06-17 04:00:00,Technical Support,257,Neutral,Pending
+390,884,2026-06-17 05:00:00,Technical Support,215,Neutral,Resolved
+391,865,2026-06-17 06:00:00,Technical Support,495,Negative,Pending
+392,824,2026-06-17 07:00:00,Product Inquiry,107,Positive,Escalated to Human
+393,842,2026-06-17 08:00:00,Billing Issue,180,Positive,Resolved
+394,781,2026-06-17 09:00:00,Billing Issue,366,Neutral,Resolved
+395,708,2026-06-17 10:00:00,Technical Support,218,Positive,Pending
+396,453,2026-06-17 11:00:00,Password Reset,333,Neutral,Escalated to Human
+397,816,2026-06-17 12:00:00,Billing Issue,205,Neutral,Escalated to Human
+398,130,2026-06-17 13:00:00,Billing Issue,168,Neutral,Pending
+399,117,2026-06-17 14:00:00,Technical Support,140,Neutral,Escalated to Human
+400,485,2026-06-17 15:00:00,Billing Issue,390,Positive,Escalated to Human
+401,759,2026-06-17 16:00:00,Refund Request,399,Negative,Pending
+402,273,2026-06-17 17:00:00,Technical Support,136,Positive,Resolved
+403,435,2026-06-17 18:00:00,Password Reset,98,Positive,Escalated to Human
+404,702,2026-06-17 19:00:00,Billing Issue,196,Neutral,Escalated to Human
+405,115,2026-06-17 20:00:00,Product Inquiry,212,Positive,Resolved
+406,415,2026-06-17 21:00:00,Refund Request,576,Negative,Pending
+407,139,2026-06-17 22:00:00,Refund Request,185,Negative,Resolved
+408,600,2026-06-17 23:00:00,Refund Request,288,Negative,Pending
+409,485,2026-06-18 00:00:00,Refund Request,455,Neutral,Escalated to Human
+410,569,2026-06-18 01:00:00,Product Inquiry,102,Negative,Pending
+411,369,2026-06-18 02:00:00,Refund Request,325,Positive,Resolved
+412,287,2026-06-18 03:00:00,Product Inquiry,587,Neutral,Resolved
+413,760,2026-06-18 04:00:00,Product Inquiry,271,Positive,Pending
+414,851,2026-06-18 05:00:00,Billing Issue,279,Negative,Pending
+415,909,2026-06-18 06:00:00,Refund Request,172,Neutral,Pending
+416,746,2026-06-18 07:00:00,Billing Issue,159,Negative,Pending
+417,896,2026-06-18 08:00:00,Billing Issue,135,Negative,Pending
+418,391,2026-06-18 09:00:00,Technical Support,431,Positive,Pending
+419,329,2026-06-18 10:00:00,Product Inquiry,239,Neutral,Pending
+420,794,2026-06-18 11:00:00,Billing Issue,526,Positive,Resolved
+421,714,2026-06-18 12:00:00,Password Reset,142,Neutral,Resolved
+422,535,2026-06-18 13:00:00,Billing Issue,254,Neutral,Escalated to Human
+423,898,2026-06-18 14:00:00,Billing Issue,394,Positive,Pending
+424,838,2026-06-18 15:00:00,Refund Request,221,Negative,Pending
+425,496,2026-06-18 16:00:00,Billing Issue,281,Negative,Pending
+426,704,2026-06-18 17:00:00,Password Reset,463,Negative,Escalated to Human
+427,461,2026-06-18 18:00:00,Password Reset,556,Neutral,Resolved
+428,281,2026-06-18 19:00:00,Password Reset,182,Neutral,Resolved
+429,814,2026-06-18 20:00:00,Password Reset,476,Positive,Resolved
+430,696,2026-06-18 21:00:00,Billing Issue,493,Positive,Pending
+431,418,2026-06-18 22:00:00,Technical Support,126,Positive,Escalated to Human
+432,534,2026-06-18 23:00:00,Password Reset,350,Negative,Escalated to Human
+433,401,2026-06-19 00:00:00,Billing Issue,68,Neutral,Pending
+434,827,2026-06-19 01:00:00,Refund Request,312,Positive,Escalated to Human
+435,428,2026-06-19 02:00:00,Refund Request,74,Negative,Escalated to Human
+436,865,2026-06-19 03:00:00,Refund Request,528,Positive,Escalated to Human
+437,539,2026-06-19 04:00:00,Password Reset,370,Positive,Pending
+438,396,2026-06-19 05:00:00,Billing Issue,333,Negative,Escalated to Human
+439,545,2026-06-19 06:00:00,Billing Issue,481,Neutral,Resolved
+440,540,2026-06-19 07:00:00,Refund Request,95,Negative,Escalated to Human
+441,365,2026-06-19 08:00:00,Product Inquiry,597,Negative,Escalated to Human
+442,851,2026-06-19 09:00:00,Technical Support,40,Neutral,Pending
+443,847,2026-06-19 10:00:00,Technical Support,546,Neutral,Resolved
+444,494,2026-06-19 11:00:00,Password Reset,61,Negative,Escalated to Human
+445,487,2026-06-19 12:00:00,Billing Issue,410,Negative,Resolved
+446,514,2026-06-19 13:00:00,Product Inquiry,67,Negative,Pending
+447,292,2026-06-19 14:00:00,Product Inquiry,252,Positive,Pending
+448,420,2026-06-19 15:00:00,Product Inquiry,540,Negative,Pending
+449,549,2026-06-19 16:00:00,Product Inquiry,431,Neutral,Resolved
+450,746,2026-06-19 17:00:00,Refund Request,148,Positive,Resolved
+451,739,2026-06-19 18:00:00,Technical Support,476,Positive,Escalated to Human
+452,511,2026-06-19 19:00:00,Password Reset,303,Positive,Resolved
+453,544,2026-06-19 20:00:00,Password Reset,191,Positive,Resolved
+454,775,2026-06-19 21:00:00,Technical Support,43,Neutral,Escalated to Human
+455,897,2026-06-19 22:00:00,Billing Issue,369,Neutral,Resolved
+456,971,2026-06-19 23:00:00,Technical Support,409,Negative,Escalated to Human
+457,544,2026-06-20 00:00:00,Billing Issue,206,Negative,Pending
+458,255,2026-06-20 01:00:00,Product Inquiry,489,Neutral,Pending
+459,774,2026-06-20 02:00:00,Password Reset,213,Neutral,Pending
+460,255,2026-06-20 03:00:00,Password Reset,351,Neutral,Resolved
+461,610,2026-06-20 04:00:00,Technical Support,171,Negative,Resolved
+462,189,2026-06-20 05:00:00,Refund Request,347,Negative,Resolved
+463,257,2026-06-20 06:00:00,Technical Support,347,Positive,Pending
+464,666,2026-06-20 07:00:00,Technical Support,547,Negative,Pending
+465,458,2026-06-20 08:00:00,Refund Request,33,Positive,Resolved
+466,552,2026-06-20 09:00:00,Refund Request,228,Negative,Escalated to Human
+467,984,2026-06-20 10:00:00,Billing Issue,342,Neutral,Pending
+468,873,2026-06-20 11:00:00,Billing Issue,63,Neutral,Pending
+469,654,2026-06-20 12:00:00,Refund Request,467,Negative,Pending
+470,405,2026-06-20 13:00:00,Technical Support,164,Negative,Pending
+471,394,2026-06-20 14:00:00,Password Reset,308,Positive,Escalated to Human
+472,103,2026-06-20 15:00:00,Product Inquiry,563,Negative,Escalated to Human
+473,709,2026-06-20 16:00:00,Password Reset,80,Neutral,Pending
+474,160,2026-06-20 17:00:00,Password Reset,308,Positive,Escalated to Human
+475,817,2026-06-20 18:00:00,Refund Request,52,Negative,Escalated to Human
+476,781,2026-06-20 19:00:00,Technical Support,303,Neutral,Pending
+477,360,2026-06-20 20:00:00,Refund Request,147,Positive,Pending
+478,680,2026-06-20 21:00:00,Password Reset,447,Positive,Pending
+479,400,2026-06-20 22:00:00,Refund Request,327,Positive,Escalated to Human
+480,992,2026-06-20 23:00:00,Refund Request,502,Neutral,Resolved
+481,951,2026-06-21 00:00:00,Password Reset,553,Positive,Pending
+482,543,2026-06-21 01:00:00,Product Inquiry,221,Negative,Resolved
+483,477,2026-06-21 02:00:00,Password Reset,534,Neutral,Pending
+484,824,2026-06-21 03:00:00,Product Inquiry,45,Negative,Pending
+485,570,2026-06-21 04:00:00,Technical Support,512,Neutral,Resolved
+486,138,2026-06-21 05:00:00,Refund Request,126,Negative,Pending
+487,414,2026-06-21 06:00:00,Product Inquiry,169,Positive,Escalated to Human
+488,393,2026-06-21 07:00:00,Product Inquiry,567,Positive,Resolved
+489,486,2026-06-21 08:00:00,Technical Support,249,Negative,Escalated to Human
+490,232,2026-06-21 09:00:00,Product Inquiry,497,Neutral,Resolved
+491,964,2026-06-21 10:00:00,Technical Support,271,Negative,Resolved
+492,276,2026-06-21 11:00:00,Product Inquiry,166,Negative,Pending
+493,348,2026-06-21 12:00:00,Billing Issue,531,Positive,Escalated to Human
+494,549,2026-06-21 13:00:00,Password Reset,184,Negative,Resolved
+495,357,2026-06-21 14:00:00,Refund Request,289,Negative,Pending
+496,455,2026-06-21 15:00:00,Password Reset,506,Positive,Pending
+497,785,2026-06-21 16:00:00,Technical Support,225,Neutral,Escalated to Human
+498,164,2026-06-21 17:00:00,Product Inquiry,441,Neutral,Resolved
+499,249,2026-06-21 18:00:00,Password Reset,542,Positive,Escalated to Human
+500,883,2026-06-21 19:00:00,Billing Issue,217,Positive,Pending
+501,543,2026-06-21 20:00:00,Refund Request,532,Neutral,Pending
+502,976,2026-06-21 21:00:00,Password Reset,232,Positive,Pending
+503,333,2026-06-21 22:00:00,Password Reset,45,Positive,Pending
+504,535,2026-06-21 23:00:00,Billing Issue,514,Negative,Pending
+505,136,2026-06-22 00:00:00,Product Inquiry,57,Positive,Resolved
+506,957,2026-06-22 01:00:00,Password Reset,344,Negative,Escalated to Human
+507,318,2026-06-22 02:00:00,Product Inquiry,122,Positive,Resolved
+508,149,2026-06-22 03:00:00,Refund Request,332,Positive,Resolved
+509,307,2026-06-22 04:00:00,Product Inquiry,225,Neutral,Resolved
+510,231,2026-06-22 05:00:00,Product Inquiry,586,Positive,Pending
+511,227,2026-06-22 06:00:00,Technical Support,496,Positive,Resolved
+512,290,2026-06-22 07:00:00,Technical Support,396,Negative,Resolved
+513,827,2026-06-22 08:00:00,Product Inquiry,459,Neutral,Escalated to Human
+514,782,2026-06-22 09:00:00,Billing Issue,411,Negative,Escalated to Human
+515,994,2026-06-22 10:00:00,Technical Support,127,Neutral,Escalated to Human
+516,322,2026-06-22 11:00:00,Technical Support,274,Neutral,Resolved
+517,111,2026-06-22 12:00:00,Technical Support,98,Neutral,Resolved
+518,941,2026-06-22 13:00:00,Password Reset,454,Neutral,Resolved
+519,279,2026-06-22 14:00:00,Product Inquiry,100,Positive,Pending
+520,592,2026-06-22 15:00:00,Product Inquiry,196,Negative,Pending
+521,135,2026-06-22 16:00:00,Product Inquiry,458,Negative,Pending
+522,853,2026-06-22 17:00:00,Technical Support,158,Negative,Pending
+523,147,2026-06-22 18:00:00,Billing Issue,124,Negative,Escalated to Human
+524,203,2026-06-22 19:00:00,Billing Issue,385,Neutral,Pending
+525,735,2026-06-22 20:00:00,Product Inquiry,469,Positive,Pending
+526,603,2026-06-22 21:00:00,Billing Issue,479,Positive,Escalated to Human
+527,855,2026-06-22 22:00:00,Product Inquiry,393,Neutral,Resolved
+528,871,2026-06-22 23:00:00,Password Reset,305,Neutral,Resolved
+529,819,2026-06-23 00:00:00,Refund Request,324,Positive,Resolved
+530,418,2026-06-23 01:00:00,Technical Support,208,Negative,Pending
+531,400,2026-06-23 02:00:00,Password Reset,309,Neutral,Escalated to Human
+532,934,2026-06-23 03:00:00,Password Reset,83,Positive,Resolved
+533,354,2026-06-23 04:00:00,Refund Request,245,Neutral,Escalated to Human
+534,410,2026-06-23 05:00:00,Password Reset,129,Negative,Resolved
+535,425,2026-06-23 06:00:00,Refund Request,80,Negative,Escalated to Human
+536,879,2026-06-23 07:00:00,Technical Support,529,Neutral,Escalated to Human
+537,458,2026-06-23 08:00:00,Refund Request,64,Negative,Resolved
+538,490,2026-06-23 09:00:00,Billing Issue,146,Neutral,Pending
+539,638,2026-06-23 10:00:00,Password Reset,473,Neutral,Pending
+540,265,2026-06-23 11:00:00,Password Reset,534,Neutral,Resolved
+541,292,2026-06-23 12:00:00,Password Reset,378,Positive,Pending
+542,113,2026-06-23 13:00:00,Refund Request,138,Positive,Resolved
+543,897,2026-06-23 14:00:00,Technical Support,449,Negative,Resolved
+544,175,2026-06-23 15:00:00,Technical Support,414,Positive,Escalated to Human
+545,824,2026-06-23 16:00:00,Billing Issue,325,Positive,Resolved
+546,736,2026-06-23 17:00:00,Technical Support,174,Positive,Escalated to Human
+547,501,2026-06-23 18:00:00,Billing Issue,350,Negative,Escalated to Human
+548,144,2026-06-23 19:00:00,Product Inquiry,219,Negative,Pending
+549,977,2026-06-23 20:00:00,Product Inquiry,82,Negative,Pending
+550,771,2026-06-23 21:00:00,Product Inquiry,336,Positive,Escalated to Human
+551,251,2026-06-23 22:00:00,Technical Support,215,Positive,Resolved
+552,842,2026-06-23 23:00:00,Product Inquiry,527,Positive,Pending
+553,834,2026-06-24 00:00:00,Product Inquiry,142,Neutral,Resolved
+554,127,2026-06-24 01:00:00,Product Inquiry,304,Neutral,Escalated to Human
+555,977,2026-06-24 02:00:00,Password Reset,530,Negative,Pending
+556,951,2026-06-24 03:00:00,Refund Request,544,Negative,Escalated to Human
+557,138,2026-06-24 04:00:00,Billing Issue,230,Neutral,Escalated to Human
+558,715,2026-06-24 05:00:00,Technical Support,595,Positive,Escalated to Human
+559,946,2026-06-24 06:00:00,Technical Support,489,Positive,Pending
+560,634,2026-06-24 07:00:00,Password Reset,368,Neutral,Pending
+561,704,2026-06-24 08:00:00,Password Reset,423,Neutral,Pending
+562,167,2026-06-24 09:00:00,Refund Request,468,Neutral,Escalated to Human
+563,306,2026-06-24 10:00:00,Product Inquiry,328,Positive,Resolved
+564,560,2026-06-24 11:00:00,Billing Issue,567,Negative,Escalated to Human
+565,629,2026-06-24 12:00:00,Refund Request,339,Neutral,Escalated to Human
+566,679,2026-06-24 13:00:00,Product Inquiry,588,Negative,Resolved
+567,531,2026-06-24 14:00:00,Technical Support,307,Neutral,Pending
+568,981,2026-06-24 15:00:00,Refund Request,408,Negative,Pending
+569,560,2026-06-24 16:00:00,Technical Support,328,Neutral,Resolved
+570,871,2026-06-24 17:00:00,Product Inquiry,39,Positive,Pending
+571,836,2026-06-24 18:00:00,Refund Request,78,Neutral,Resolved
+572,308,2026-06-24 19:00:00,Refund Request,492,Neutral,Resolved
+573,963,2026-06-24 20:00:00,Billing Issue,485,Negative,Resolved
+574,614,2026-06-24 21:00:00,Product Inquiry,559,Negative,Escalated to Human
+575,946,2026-06-24 22:00:00,Technical Support,322,Neutral,Resolved
+576,278,2026-06-24 23:00:00,Billing Issue,119,Negative,Resolved
+577,860,2026-06-25 00:00:00,Refund Request,557,Positive,Resolved
+578,785,2026-06-25 01:00:00,Product Inquiry,322,Neutral,Resolved
+579,686,2026-06-25 02:00:00,Product Inquiry,256,Negative,Escalated to Human
+580,641,2026-06-25 03:00:00,Technical Support,32,Negative,Resolved
+581,750,2026-06-25 04:00:00,Billing Issue,163,Negative,Pending
+582,965,2026-06-25 05:00:00,Product Inquiry,288,Neutral,Escalated to Human
+583,247,2026-06-25 06:00:00,Refund Request,581,Neutral,Escalated to Human
+584,854,2026-06-25 07:00:00,Refund Request,398,Negative,Pending
+585,993,2026-06-25 08:00:00,Billing Issue,448,Positive,Escalated to Human
+586,955,2026-06-25 09:00:00,Product Inquiry,321,Positive,Pending
+587,992,2026-06-25 10:00:00,Refund Request,276,Negative,Pending
+588,447,2026-06-25 11:00:00,Password Reset,237,Neutral,Escalated to Human
+589,763,2026-06-25 12:00:00,Technical Support,422,Positive,Escalated to Human
+590,779,2026-06-25 13:00:00,Product Inquiry,31,Positive,Resolved
+591,325,2026-06-25 14:00:00,Billing Issue,428,Neutral,Escalated to Human
+592,908,2026-06-25 15:00:00,Refund Request,487,Negative,Resolved
+593,952,2026-06-25 16:00:00,Technical Support,352,Positive,Resolved
+594,525,2026-06-25 17:00:00,Technical Support,419,Neutral,Resolved
+595,622,2026-06-25 18:00:00,Technical Support,55,Neutral,Escalated to Human
+596,975,2026-06-25 19:00:00,Refund Request,193,Positive,Resolved
+597,724,2026-06-25 20:00:00,Refund Request,346,Neutral,Resolved
+598,262,2026-06-25 21:00:00,Technical Support,217,Neutral,Escalated to Human
+599,535,2026-06-25 22:00:00,Product Inquiry,528,Neutral,Pending
+600,557,2026-06-25 23:00:00,Password Reset,85,Negative,Pending
+601,327,2026-06-26 00:00:00,Billing Issue,34,Positive,Resolved
+602,869,2026-06-26 01:00:00,Technical Support,137,Neutral,Resolved
+603,760,2026-06-26 02:00:00,Password Reset,201,Negative,Pending
+604,100,2026-06-26 03:00:00,Billing Issue,558,Neutral,Resolved
+605,643,2026-06-26 04:00:00,Product Inquiry,104,Positive,Pending
+606,695,2026-06-26 05:00:00,Password Reset,377,Neutral,Resolved
+607,526,2026-06-26 06:00:00,Product Inquiry,93,Positive,Resolved
+608,401,2026-06-26 07:00:00,Refund Request,264,Neutral,Resolved
+609,405,2026-06-26 08:00:00,Technical Support,113,Neutral,Resolved
+610,845,2026-06-26 09:00:00,Refund Request,373,Positive,Pending
+611,863,2026-06-26 10:00:00,Password Reset,535,Negative,Resolved
+612,832,2026-06-26 11:00:00,Billing Issue,595,Neutral,Pending
+613,457,2026-06-26 12:00:00,Product Inquiry,486,Neutral,Resolved
+614,921,2026-06-26 13:00:00,Password Reset,287,Negative,Escalated to Human
+615,230,2026-06-26 14:00:00,Refund Request,114,Negative,Resolved
+616,335,2026-06-26 15:00:00,Password Reset,539,Neutral,Pending
+617,380,2026-06-26 16:00:00,Technical Support,391,Neutral,Resolved
+618,442,2026-06-26 17:00:00,Refund Request,141,Positive,Escalated to Human
+619,302,2026-06-26 18:00:00,Technical Support,521,Neutral,Resolved
+620,536,2026-06-26 19:00:00,Product Inquiry,134,Positive,Pending
+621,872,2026-06-26 20:00:00,Product Inquiry,453,Positive,Resolved
+622,287,2026-06-26 21:00:00,Product Inquiry,423,Negative,Pending
+623,414,2026-06-26 22:00:00,Product Inquiry,449,Neutral,Escalated to Human
+624,608,2026-06-26 23:00:00,Billing Issue,153,Neutral,Pending
+625,646,2026-06-27 00:00:00,Password Reset,566,Positive,Escalated to Human
+626,934,2026-06-27 01:00:00,Technical Support,155,Positive,Escalated to Human
+627,508,2026-06-27 02:00:00,Billing Issue,390,Neutral,Pending
+628,202,2026-06-27 03:00:00,Technical Support,352,Neutral,Pending
+629,946,2026-06-27 04:00:00,Technical Support,331,Positive,Resolved
+630,617,2026-06-27 05:00:00,Product Inquiry,205,Positive,Escalated to Human
+631,489,2026-06-27 06:00:00,Technical Support,40,Negative,Pending
+632,634,2026-06-27 07:00:00,Password Reset,585,Negative,Pending
+633,689,2026-06-27 08:00:00,Product Inquiry,189,Positive,Escalated to Human
+634,928,2026-06-27 09:00:00,Refund Request,290,Positive,Resolved
+635,657,2026-06-27 10:00:00,Product Inquiry,557,Negative,Resolved
+636,692,2026-06-27 11:00:00,Technical Support,454,Negative,Pending
+637,325,2026-06-27 12:00:00,Password Reset,217,Positive,Resolved
+638,859,2026-06-27 13:00:00,Product Inquiry,562,Positive,Escalated to Human
+639,871,2026-06-27 14:00:00,Refund Request,584,Neutral,Pending
+640,490,2026-06-27 15:00:00,Technical Support,334,Negative,Escalated to Human
+641,493,2026-06-27 16:00:00,Password Reset,140,Neutral,Escalated to Human
+642,464,2026-06-27 17:00:00,Password Reset,497,Neutral,Escalated to Human
+643,910,2026-06-27 18:00:00,Refund Request,80,Negative,Resolved
+644,910,2026-06-27 19:00:00,Billing Issue,147,Negative,Pending
+645,148,2026-06-27 20:00:00,Refund Request,144,Positive,Pending
+646,260,2026-06-27 21:00:00,Technical Support,160,Negative,Pending
+647,797,2026-06-27 22:00:00,Refund Request,408,Positive,Resolved
+648,158,2026-06-27 23:00:00,Billing Issue,119,Neutral,Escalated to Human
+649,580,2026-06-28 00:00:00,Refund Request,338,Negative,Pending
+650,719,2026-06-28 01:00:00,Refund Request,104,Negative,Resolved
+651,606,2026-06-28 02:00:00,Product Inquiry,540,Positive,Resolved
+652,353,2026-06-28 03:00:00,Refund Request,597,Negative,Resolved
+653,524,2026-06-28 04:00:00,Refund Request,368,Neutral,Resolved
+654,960,2026-06-28 05:00:00,Product Inquiry,412,Negative,Resolved
+655,249,2026-06-28 06:00:00,Technical Support,95,Negative,Escalated to Human
+656,666,2026-06-28 07:00:00,Refund Request,435,Neutral,Resolved
+657,371,2026-06-28 08:00:00,Billing Issue,147,Neutral,Escalated to Human
+658,118,2026-06-28 09:00:00,Product Inquiry,460,Neutral,Resolved
+659,760,2026-06-28 10:00:00,Refund Request,343,Negative,Escalated to Human
+660,630,2026-06-28 11:00:00,Refund Request,35,Negative,Resolved
+661,268,2026-06-28 12:00:00,Refund Request,509,Neutral,Pending
+662,558,2026-06-28 13:00:00,Refund Request,488,Negative,Pending
+663,698,2026-06-28 14:00:00,Product Inquiry,326,Negative,Pending
+664,943,2026-06-28 15:00:00,Technical Support,167,Neutral,Escalated to Human
+665,971,2026-06-28 16:00:00,Billing Issue,138,Negative,Pending
+666,734,2026-06-28 17:00:00,Product Inquiry,459,Neutral,Resolved
+667,533,2026-06-28 18:00:00,Refund Request,399,Negative,Pending
+668,254,2026-06-28 19:00:00,Billing Issue,210,Negative,Resolved
+669,599,2026-06-28 20:00:00,Product Inquiry,72,Negative,Escalated to Human
+670,325,2026-06-28 21:00:00,Refund Request,100,Neutral,Escalated to Human
+671,165,2026-06-28 22:00:00,Password Reset,367,Positive,Escalated to Human
+672,214,2026-06-28 23:00:00,Product Inquiry,32,Positive,Resolved
+673,178,2026-06-29 00:00:00,Password Reset,491,Negative,Escalated to Human
+674,836,2026-06-29 01:00:00,Technical Support,386,Positive,Escalated to Human
+675,918,2026-06-29 02:00:00,Refund Request,297,Negative,Resolved
+676,295,2026-06-29 03:00:00,Technical Support,199,Negative,Resolved
+677,576,2026-06-29 04:00:00,Password Reset,358,Negative,Escalated to Human
+678,490,2026-06-29 05:00:00,Password Reset,135,Negative,Pending
+679,777,2026-06-29 06:00:00,Product Inquiry,154,Neutral,Resolved
+680,280,2026-06-29 07:00:00,Technical Support,72,Negative,Pending
+681,786,2026-06-29 08:00:00,Product Inquiry,396,Negative,Resolved
+682,462,2026-06-29 09:00:00,Refund Request,491,Positive,Resolved
+683,890,2026-06-29 10:00:00,Technical Support,561,Neutral,Resolved
+684,526,2026-06-29 11:00:00,Password Reset,277,Neutral,Resolved
+685,645,2026-06-29 12:00:00,Technical Support,428,Negative,Escalated to Human
+686,111,2026-06-29 13:00:00,Product Inquiry,379,Neutral,Pending
+687,209,2026-06-29 14:00:00,Refund Request,577,Negative,Pending
+688,932,2026-06-29 15:00:00,Billing Issue,385,Neutral,Resolved
+689,448,2026-06-29 16:00:00,Refund Request,38,Negative,Escalated to Human
+690,990,2026-06-29 17:00:00,Technical Support,409,Negative,Pending
+691,685,2026-06-29 18:00:00,Password Reset,300,Positive,Pending
+692,144,2026-06-29 19:00:00,Password Reset,337,Neutral,Pending
+693,999,2026-06-29 20:00:00,Product Inquiry,306,Positive,Resolved
+694,414,2026-06-29 21:00:00,Refund Request,172,Neutral,Pending
+695,132,2026-06-29 22:00:00,Refund Request,505,Negative,Escalated to Human
+696,189,2026-06-29 23:00:00,Product Inquiry,363,Positive,Resolved
+697,563,2026-06-30 00:00:00,Refund Request,49,Negative,Resolved
+698,174,2026-06-30 01:00:00,Password Reset,474,Neutral,Escalated to Human
+699,139,2026-06-30 02:00:00,Technical Support,363,Negative,Resolved
+700,630,2026-06-30 03:00:00,Password Reset,549,Positive,Pending
+701,493,2026-06-30 04:00:00,Technical Support,520,Neutral,Escalated to Human
+702,433,2026-06-30 05:00:00,Billing Issue,510,Positive,Resolved
+703,740,2026-06-30 06:00:00,Product Inquiry,163,Neutral,Pending
+704,900,2026-06-30 07:00:00,Billing Issue,358,Positive,Pending
+705,587,2026-06-30 08:00:00,Product Inquiry,551,Negative,Pending
+706,889,2026-06-30 09:00:00,Billing Issue,186,Neutral,Pending
+707,484,2026-06-30 10:00:00,Product Inquiry,119,Negative,Escalated to Human
+708,592,2026-06-30 11:00:00,Refund Request,223,Negative,Pending
+709,537,2026-06-30 12:00:00,Billing Issue,290,Neutral,Resolved
+710,477,2026-06-30 13:00:00,Technical Support,398,Negative,Resolved
+711,413,2026-06-30 14:00:00,Password Reset,192,Positive,Escalated to Human
+712,821,2026-06-30 15:00:00,Refund Request,136,Positive,Escalated to Human
+713,389,2026-06-30 16:00:00,Password Reset,452,Neutral,Pending
+714,648,2026-06-30 17:00:00,Technical Support,169,Negative,Resolved
+715,991,2026-06-30 18:00:00,Technical Support,60,Negative,Pending
+716,129,2026-06-30 19:00:00,Refund Request,330,Positive,Escalated to Human
+717,479,2026-06-30 20:00:00,Technical Support,94,Neutral,Pending
+718,471,2026-06-30 21:00:00,Password Reset,115,Positive,Resolved
+719,726,2026-06-30 22:00:00,Password Reset,150,Positive,Resolved
+720,526,2026-06-30 23:00:00,Billing Issue,557,Positive,Escalated to Human
+721,241,2026-07-01 00:00:00,Technical Support,339,Positive,Resolved
+722,600,2026-07-01 01:00:00,Refund Request,61,Positive,Escalated to Human
+723,724,2026-07-01 02:00:00,Password Reset,502,Negative,Resolved
+724,797,2026-07-01 03:00:00,Password Reset,271,Positive,Escalated to Human
+725,786,2026-07-01 04:00:00,Password Reset,207,Neutral,Escalated to Human
+726,942,2026-07-01 05:00:00,Technical Support,510,Positive,Pending
+727,128,2026-07-01 06:00:00,Password Reset,403,Positive,Pending
+728,925,2026-07-01 07:00:00,Technical Support,461,Positive,Pending
+729,137,2026-07-01 08:00:00,Product Inquiry,58,Positive,Resolved
+730,745,2026-07-01 09:00:00,Product Inquiry,37,Positive,Pending
+731,408,2026-07-01 10:00:00,Billing Issue,391,Positive,Escalated to Human
+732,829,2026-07-01 11:00:00,Refund Request,126,Negative,Resolved
+733,653,2026-07-01 12:00:00,Technical Support,394,Neutral,Escalated to Human
+734,197,2026-07-01 13:00:00,Password Reset,343,Neutral,Escalated to Human
+735,849,2026-07-01 14:00:00,Technical Support,534,Neutral,Resolved
+736,661,2026-07-01 15:00:00,Technical Support,433,Positive,Pending
+737,219,2026-07-01 16:00:00,Technical Support,58,Neutral,Escalated to Human
+738,145,2026-07-01 17:00:00,Password Reset,127,Positive,Pending
+739,335,2026-07-01 18:00:00,Refund Request,164,Negative,Resolved
+740,956,2026-07-01 19:00:00,Password Reset,46,Negative,Escalated to Human
+741,778,2026-07-01 20:00:00,Refund Request,392,Neutral,Resolved
+742,559,2026-07-01 21:00:00,Password Reset,69,Negative,Resolved
+743,657,2026-07-01 22:00:00,Password Reset,599,Neutral,Resolved
+744,863,2026-07-01 23:00:00,Refund Request,372,Neutral,Pending
+745,857,2026-07-02 00:00:00,Billing Issue,141,Positive,Pending
+746,725,2026-07-02 01:00:00,Password Reset,515,Neutral,Resolved
+747,971,2026-07-02 02:00:00,Product Inquiry,521,Neutral,Pending
+748,809,2026-07-02 03:00:00,Product Inquiry,257,Neutral,Resolved
+749,245,2026-07-02 04:00:00,Product Inquiry,558,Positive,Pending
+750,571,2026-07-02 05:00:00,Technical Support,133,Positive,Escalated to Human
+751,109,2026-07-02 06:00:00,Billing Issue,543,Negative,Escalated to Human
+752,781,2026-07-02 07:00:00,Product Inquiry,396,Negative,Pending
+753,547,2026-07-02 08:00:00,Refund Request,254,Neutral,Escalated to Human
+754,225,2026-07-02 09:00:00,Billing Issue,78,Negative,Escalated to Human
+755,855,2026-07-02 10:00:00,Billing Issue,268,Negative,Pending
+756,285,2026-07-02 11:00:00,Password Reset,254,Positive,Resolved
+757,820,2026-07-02 12:00:00,Billing Issue,427,Negative,Pending
+758,475,2026-07-02 13:00:00,Password Reset,354,Negative,Pending
+759,719,2026-07-02 14:00:00,Product Inquiry,234,Negative,Escalated to Human
+760,389,2026-07-02 15:00:00,Billing Issue,381,Neutral,Pending
+761,278,2026-07-02 16:00:00,Billing Issue,118,Neutral,Escalated to Human
+762,328,2026-07-02 17:00:00,Refund Request,432,Neutral,Escalated to Human
+763,191,2026-07-02 18:00:00,Technical Support,209,Negative,Pending
+764,747,2026-07-02 19:00:00,Technical Support,582,Neutral,Resolved
+765,661,2026-07-02 20:00:00,Password Reset,362,Positive,Pending
+766,228,2026-07-02 21:00:00,Product Inquiry,197,Positive,Escalated to Human
+767,159,2026-07-02 22:00:00,Technical Support,424,Negative,Escalated to Human
+768,528,2026-07-02 23:00:00,Product Inquiry,160,Negative,Resolved
+769,719,2026-07-03 00:00:00,Billing Issue,331,Positive,Pending
+770,278,2026-07-03 01:00:00,Password Reset,112,Positive,Escalated to Human
+771,789,2026-07-03 02:00:00,Password Reset,290,Negative,Pending
+772,875,2026-07-03 03:00:00,Password Reset,423,Positive,Resolved
+773,404,2026-07-03 04:00:00,Refund Request,302,Positive,Escalated to Human
+774,549,2026-07-03 05:00:00,Password Reset,205,Neutral,Pending
+775,849,2026-07-03 06:00:00,Password Reset,445,Neutral,Pending
+776,752,2026-07-03 07:00:00,Billing Issue,432,Positive,Escalated to Human
+777,383,2026-07-03 08:00:00,Billing Issue,542,Neutral,Resolved
+778,360,2026-07-03 09:00:00,Refund Request,289,Negative,Escalated to Human
+779,170,2026-07-03 10:00:00,Billing Issue,449,Positive,Escalated to Human
+780,545,2026-07-03 11:00:00,Technical Support,211,Negative,Escalated to Human
+781,221,2026-07-03 12:00:00,Product Inquiry,476,Negative,Escalated to Human
+782,527,2026-07-03 13:00:00,Billing Issue,42,Neutral,Resolved
+783,263,2026-07-03 14:00:00,Technical Support,210,Neutral,Resolved
+784,163,2026-07-03 15:00:00,Password Reset,112,Neutral,Resolved
+785,879,2026-07-03 16:00:00,Password Reset,444,Negative,Escalated to Human
+786,256,2026-07-03 17:00:00,Billing Issue,535,Positive,Escalated to Human
+787,102,2026-07-03 18:00:00,Technical Support,191,Neutral,Pending
+788,155,2026-07-03 19:00:00,Technical Support,592,Neutral,Pending
+789,562,2026-07-03 20:00:00,Password Reset,506,Neutral,Pending
+790,767,2026-07-03 21:00:00,Product Inquiry,355,Negative,Pending
+791,780,2026-07-03 22:00:00,Billing Issue,304,Positive,Escalated to Human
+792,603,2026-07-03 23:00:00,Product Inquiry,60,Neutral,Escalated to Human
+793,841,2026-07-04 00:00:00,Product Inquiry,545,Negative,Escalated to Human
+794,860,2026-07-04 01:00:00,Billing Issue,248,Positive,Resolved
+795,216,2026-07-04 02:00:00,Technical Support,306,Negative,Pending
+796,815,2026-07-04 03:00:00,Billing Issue,327,Negative,Pending
+797,118,2026-07-04 04:00:00,Billing Issue,154,Neutral,Resolved
+798,948,2026-07-04 05:00:00,Technical Support,246,Neutral,Resolved
+799,155,2026-07-04 06:00:00,Refund Request,190,Negative,Resolved
+800,711,2026-07-04 07:00:00,Technical Support,68,Negative,Pending
+801,447,2026-07-04 08:00:00,Technical Support,33,Positive,Pending
+802,993,2026-07-04 09:00:00,Product Inquiry,146,Negative,Resolved
+803,630,2026-07-04 10:00:00,Product Inquiry,196,Positive,Pending
+804,385,2026-07-04 11:00:00,Billing Issue,216,Neutral,Escalated to Human
+805,208,2026-07-04 12:00:00,Billing Issue,389,Negative,Resolved
+806,579,2026-07-04 13:00:00,Product Inquiry,60,Neutral,Pending
+807,724,2026-07-04 14:00:00,Refund Request,66,Positive,Escalated to Human
+808,580,2026-07-04 15:00:00,Refund Request,253,Positive,Pending
+809,333,2026-07-04 16:00:00,Password Reset,323,Negative,Resolved
+810,730,2026-07-04 17:00:00,Refund Request,164,Negative,Resolved
+811,606,2026-07-04 18:00:00,Billing Issue,33,Positive,Pending
+812,907,2026-07-04 19:00:00,Billing Issue,509,Negative,Pending
+813,923,2026-07-04 20:00:00,Product Inquiry,445,Neutral,Resolved
+814,331,2026-07-04 21:00:00,Billing Issue,439,Neutral,Pending
+815,195,2026-07-04 22:00:00,Product Inquiry,469,Positive,Escalated to Human
+816,663,2026-07-04 23:00:00,Password Reset,181,Neutral,Escalated to Human
+817,965,2026-07-05 00:00:00,Product Inquiry,45,Negative,Pending
+818,773,2026-07-05 01:00:00,Product Inquiry,322,Neutral,Escalated to Human
+819,855,2026-07-05 02:00:00,Billing Issue,145,Positive,Escalated to Human
+820,198,2026-07-05 03:00:00,Technical Support,344,Negative,Resolved
+821,269,2026-07-05 04:00:00,Billing Issue,581,Positive,Escalated to Human
+822,387,2026-07-05 05:00:00,Product Inquiry,311,Negative,Pending
+823,237,2026-07-05 06:00:00,Password Reset,288,Neutral,Escalated to Human
+824,786,2026-07-05 07:00:00,Product Inquiry,412,Neutral,Pending
+825,246,2026-07-05 08:00:00,Technical Support,365,Neutral,Pending
+826,696,2026-07-05 09:00:00,Product Inquiry,251,Positive,Resolved
+827,722,2026-07-05 10:00:00,Password Reset,459,Positive,Pending
+828,362,2026-07-05 11:00:00,Billing Issue,107,Neutral,Escalated to Human
+829,977,2026-07-05 12:00:00,Refund Request,35,Positive,Resolved
+830,630,2026-07-05 13:00:00,Product Inquiry,260,Neutral,Escalated to Human
+831,273,2026-07-05 14:00:00,Technical Support,75,Neutral,Pending
+832,719,2026-07-05 15:00:00,Billing Issue,561,Positive,Resolved
+833,566,2026-07-05 16:00:00,Billing Issue,169,Positive,Escalated to Human
+834,447,2026-07-05 17:00:00,Product Inquiry,479,Positive,Resolved
+835,832,2026-07-05 18:00:00,Technical Support,233,Positive,Resolved
+836,492,2026-07-05 19:00:00,Refund Request,430,Negative,Escalated to Human
+837,614,2026-07-05 20:00:00,Product Inquiry,289,Negative,Resolved
+838,997,2026-07-05 21:00:00,Product Inquiry,585,Neutral,Resolved
+839,550,2026-07-05 22:00:00,Product Inquiry,52,Neutral,Pending
+840,210,2026-07-05 23:00:00,Technical Support,367,Positive,Pending
+841,696,2026-07-06 00:00:00,Technical Support,73,Neutral,Escalated to Human
+842,633,2026-07-06 01:00:00,Billing Issue,568,Positive,Escalated to Human
+843,804,2026-07-06 02:00:00,Technical Support,87,Positive,Pending
+844,853,2026-07-06 03:00:00,Product Inquiry,523,Positive,Resolved
+845,658,2026-07-06 04:00:00,Refund Request,65,Negative,Escalated to Human
+846,830,2026-07-06 05:00:00,Product Inquiry,484,Positive,Escalated to Human
+847,609,2026-07-06 06:00:00,Billing Issue,270,Positive,Resolved
+848,773,2026-07-06 07:00:00,Technical Support,306,Positive,Resolved
+849,206,2026-07-06 08:00:00,Technical Support,226,Negative,Resolved
+850,188,2026-07-06 09:00:00,Billing Issue,345,Negative,Escalated to Human
+851,362,2026-07-06 10:00:00,Billing Issue,422,Neutral,Pending
+852,605,2026-07-06 11:00:00,Password Reset,90,Neutral,Pending
+853,428,2026-07-06 12:00:00,Password Reset,114,Negative,Pending
+854,743,2026-07-06 13:00:00,Password Reset,431,Neutral,Resolved
+855,876,2026-07-06 14:00:00,Password Reset,352,Positive,Pending
+856,132,2026-07-06 15:00:00,Refund Request,286,Negative,Resolved
+857,991,2026-07-06 16:00:00,Refund Request,497,Positive,Pending
+858,812,2026-07-06 17:00:00,Refund Request,527,Negative,Escalated to Human
+859,454,2026-07-06 18:00:00,Technical Support,503,Positive,Pending
+860,246,2026-07-06 19:00:00,Product Inquiry,451,Neutral,Resolved
+861,237,2026-07-06 20:00:00,Technical Support,299,Neutral,Resolved
+862,155,2026-07-06 21:00:00,Technical Support,269,Neutral,Escalated to Human
+863,899,2026-07-06 22:00:00,Password Reset,471,Negative,Resolved
+864,146,2026-07-06 23:00:00,Refund Request,232,Positive,Resolved
+865,903,2026-07-07 00:00:00,Refund Request,281,Positive,Escalated to Human
+866,912,2026-07-07 01:00:00,Billing Issue,291,Positive,Resolved
+867,494,2026-07-07 02:00:00,Technical Support,81,Negative,Resolved
+868,697,2026-07-07 03:00:00,Refund Request,589,Positive,Resolved
+869,665,2026-07-07 04:00:00,Billing Issue,161,Positive,Pending
+870,548,2026-07-07 05:00:00,Password Reset,93,Neutral,Pending
+871,738,2026-07-07 06:00:00,Billing Issue,210,Positive,Pending
+872,229,2026-07-07 07:00:00,Product Inquiry,374,Neutral,Pending
+873,147,2026-07-07 08:00:00,Product Inquiry,132,Positive,Pending
+874,590,2026-07-07 09:00:00,Technical Support,337,Negative,Escalated to Human
+875,321,2026-07-07 10:00:00,Refund Request,134,Neutral,Pending
+876,540,2026-07-07 11:00:00,Billing Issue,123,Neutral,Escalated to Human
+877,107,2026-07-07 12:00:00,Billing Issue,346,Neutral,Escalated to Human
+878,914,2026-07-07 13:00:00,Password Reset,370,Positive,Resolved
+879,165,2026-07-07 14:00:00,Password Reset,488,Negative,Resolved
+880,617,2026-07-07 15:00:00,Refund Request,496,Negative,Escalated to Human
+881,600,2026-07-07 16:00:00,Billing Issue,176,Neutral,Escalated to Human
+882,894,2026-07-07 17:00:00,Billing Issue,258,Negative,Escalated to Human
+883,539,2026-07-07 18:00:00,Refund Request,208,Negative,Escalated to Human
+884,453,2026-07-07 19:00:00,Product Inquiry,116,Negative,Resolved
+885,963,2026-07-07 20:00:00,Billing Issue,486,Positive,Resolved
+886,872,2026-07-07 21:00:00,Technical Support,33,Negative,Resolved
+887,848,2026-07-07 22:00:00,Product Inquiry,303,Negative,Escalated to Human
+888,557,2026-07-07 23:00:00,Billing Issue,362,Neutral,Pending
+889,459,2026-07-08 00:00:00,Product Inquiry,462,Negative,Resolved
+890,170,2026-07-08 01:00:00,Refund Request,214,Neutral,Resolved
+891,547,2026-07-08 02:00:00,Password Reset,515,Positive,Pending
+892,359,2026-07-08 03:00:00,Technical Support,499,Neutral,Pending
+893,600,2026-07-08 04:00:00,Refund Request,151,Positive,Escalated to Human
+894,186,2026-07-08 05:00:00,Refund Request,293,Negative,Escalated to Human
+895,109,2026-07-08 06:00:00,Product Inquiry,268,Positive,Resolved
+896,734,2026-07-08 07:00:00,Technical Support,481,Positive,Resolved
+897,197,2026-07-08 08:00:00,Technical Support,85,Positive,Resolved
+898,119,2026-07-08 09:00:00,Billing Issue,481,Positive,Pending
+899,675,2026-07-08 10:00:00,Refund Request,482,Positive,Pending
+900,303,2026-07-08 11:00:00,Technical Support,404,Positive,Pending
+901,314,2026-07-08 12:00:00,Product Inquiry,426,Negative,Resolved
+902,622,2026-07-08 13:00:00,Billing Issue,226,Positive,Escalated to Human
+903,673,2026-07-08 14:00:00,Technical Support,214,Neutral,Escalated to Human
+904,511,2026-07-08 15:00:00,Technical Support,367,Neutral,Escalated to Human
+905,369,2026-07-08 16:00:00,Refund Request,491,Neutral,Escalated to Human
+906,852,2026-07-08 17:00:00,Password Reset,78,Positive,Escalated to Human
+907,597,2026-07-08 18:00:00,Technical Support,481,Positive,Escalated to Human
+908,400,2026-07-08 19:00:00,Technical Support,583,Neutral,Escalated to Human
+909,454,2026-07-08 20:00:00,Billing Issue,292,Positive,Resolved
+910,548,2026-07-08 21:00:00,Product Inquiry,443,Positive,Pending
+911,315,2026-07-08 22:00:00,Password Reset,491,Positive,Pending
+912,543,2026-07-08 23:00:00,Billing Issue,114,Negative,Escalated to Human
+913,896,2026-07-09 00:00:00,Product Inquiry,173,Neutral,Resolved
+914,994,2026-07-09 01:00:00,Password Reset,571,Positive,Escalated to Human
+915,482,2026-07-09 02:00:00,Product Inquiry,450,Negative,Pending
+916,345,2026-07-09 03:00:00,Billing Issue,375,Negative,Resolved
+917,507,2026-07-09 04:00:00,Password Reset,76,Negative,Escalated to Human
+918,763,2026-07-09 05:00:00,Refund Request,52,Neutral,Escalated to Human
+919,401,2026-07-09 06:00:00,Password Reset,282,Neutral,Escalated to Human
+920,351,2026-07-09 07:00:00,Technical Support,43,Neutral,Escalated to Human
+921,158,2026-07-09 08:00:00,Product Inquiry,72,Negative,Pending
+922,529,2026-07-09 09:00:00,Technical Support,443,Negative,Escalated to Human
+923,733,2026-07-09 10:00:00,Refund Request,561,Positive,Escalated to Human
+924,322,2026-07-09 11:00:00,Billing Issue,436,Negative,Resolved
+925,505,2026-07-09 12:00:00,Product Inquiry,584,Negative,Escalated to Human
+926,188,2026-07-09 13:00:00,Refund Request,553,Negative,Pending
+927,180,2026-07-09 14:00:00,Product Inquiry,377,Negative,Pending
+928,668,2026-07-09 15:00:00,Refund Request,142,Neutral,Pending
+929,726,2026-07-09 16:00:00,Product Inquiry,318,Positive,Resolved
+930,504,2026-07-09 17:00:00,Technical Support,52,Negative,Pending
+931,101,2026-07-09 18:00:00,Technical Support,306,Negative,Escalated to Human
+932,431,2026-07-09 19:00:00,Product Inquiry,454,Negative,Resolved
+933,299,2026-07-09 20:00:00,Password Reset,476,Neutral,Resolved
+934,251,2026-07-09 21:00:00,Technical Support,34,Neutral,Escalated to Human
+935,828,2026-07-09 22:00:00,Billing Issue,430,Neutral,Resolved
+936,564,2026-07-09 23:00:00,Product Inquiry,432,Neutral,Escalated to Human
+937,681,2026-07-10 00:00:00,Refund Request,427,Neutral,Pending
+938,591,2026-07-10 01:00:00,Password Reset,31,Neutral,Resolved
+939,847,2026-07-10 02:00:00,Billing Issue,584,Positive,Escalated to Human
+940,101,2026-07-10 03:00:00,Technical Support,142,Positive,Escalated to Human
+941,470,2026-07-10 04:00:00,Refund Request,96,Neutral,Escalated to Human
+942,527,2026-07-10 05:00:00,Technical Support,505,Negative,Escalated to Human
+943,123,2026-07-10 06:00:00,Product Inquiry,202,Neutral,Pending
+944,559,2026-07-10 07:00:00,Technical Support,213,Neutral,Escalated to Human
+945,746,2026-07-10 08:00:00,Password Reset,405,Negative,Escalated to Human
+946,231,2026-07-10 09:00:00,Billing Issue,494,Neutral,Resolved
+947,951,2026-07-10 10:00:00,Password Reset,550,Positive,Resolved
+948,417,2026-07-10 11:00:00,Product Inquiry,392,Negative,Pending
+949,272,2026-07-10 12:00:00,Password Reset,288,Neutral,Resolved
+950,133,2026-07-10 13:00:00,Password Reset,295,Positive,Resolved
+951,555,2026-07-10 14:00:00,Password Reset,311,Negative,Escalated to Human
+952,528,2026-07-10 15:00:00,Technical Support,145,Negative,Escalated to Human
+953,484,2026-07-10 16:00:00,Technical Support,59,Positive,Pending
+954,578,2026-07-10 17:00:00,Password Reset,181,Positive,Pending
+955,905,2026-07-10 18:00:00,Technical Support,220,Neutral,Pending
+956,425,2026-07-10 19:00:00,Password Reset,575,Positive,Pending
+957,532,2026-07-10 20:00:00,Product Inquiry,411,Negative,Resolved
+958,947,2026-07-10 21:00:00,Billing Issue,79,Negative,Escalated to Human
+959,446,2026-07-10 22:00:00,Billing Issue,319,Negative,Pending
+960,940,2026-07-10 23:00:00,Technical Support,323,Negative,Pending
+961,479,2026-07-11 00:00:00,Product Inquiry,140,Positive,Pending
+962,330,2026-07-11 01:00:00,Billing Issue,418,Positive,Pending
+963,171,2026-07-11 02:00:00,Password Reset,501,Neutral,Resolved
+964,204,2026-07-11 03:00:00,Product Inquiry,451,Negative,Escalated to Human
+965,346,2026-07-11 04:00:00,Refund Request,130,Negative,Escalated to Human
+966,606,2026-07-11 05:00:00,Product Inquiry,59,Negative,Escalated to Human
+967,469,2026-07-11 06:00:00,Product Inquiry,75,Neutral,Pending
+968,420,2026-07-11 07:00:00,Billing Issue,372,Neutral,Escalated to Human
+969,523,2026-07-11 08:00:00,Password Reset,48,Neutral,Escalated to Human
+970,725,2026-07-11 09:00:00,Billing Issue,409,Positive,Escalated to Human
+971,650,2026-07-11 10:00:00,Product Inquiry,144,Neutral,Escalated to Human
+972,506,2026-07-11 11:00:00,Password Reset,224,Neutral,Pending
+973,278,2026-07-11 12:00:00,Product Inquiry,62,Positive,Escalated to Human
+974,725,2026-07-11 13:00:00,Refund Request,383,Negative,Pending
+975,669,2026-07-11 14:00:00,Billing Issue,95,Positive,Resolved
+976,134,2026-07-11 15:00:00,Product Inquiry,114,Positive,Escalated to Human
+977,756,2026-07-11 16:00:00,Billing Issue,324,Neutral,Escalated to Human
+978,852,2026-07-11 17:00:00,Technical Support,183,Neutral,Pending
+979,450,2026-07-11 18:00:00,Refund Request,571,Neutral,Pending
+980,486,2026-07-11 19:00:00,Billing Issue,281,Negative,Escalated to Human
+981,511,2026-07-11 20:00:00,Password Reset,423,Negative,Escalated to Human
+982,105,2026-07-11 21:00:00,Refund Request,398,Positive,Resolved
+983,344,2026-07-11 22:00:00,Product Inquiry,520,Positive,Pending
+984,393,2026-07-11 23:00:00,Password Reset,263,Positive,Resolved
+985,794,2026-07-12 00:00:00,Password Reset,228,Neutral,Resolved
+986,194,2026-07-12 01:00:00,Refund Request,250,Positive,Escalated to Human
+987,280,2026-07-12 02:00:00,Refund Request,413,Positive,Escalated to Human
+988,347,2026-07-12 03:00:00,Refund Request,506,Positive,Resolved
+989,452,2026-07-12 04:00:00,Product Inquiry,246,Negative,Pending
+990,317,2026-07-12 05:00:00,Password Reset,329,Negative,Pending
+991,374,2026-07-12 06:00:00,Product Inquiry,456,Neutral,Resolved
+992,154,2026-07-12 07:00:00,Technical Support,495,Positive,Escalated to Human
+993,814,2026-07-12 08:00:00,Product Inquiry,540,Negative,Pending
+994,269,2026-07-12 09:00:00,Password Reset,454,Positive,Pending
+995,117,2026-07-12 10:00:00,Password Reset,561,Positive,Escalated to Human
+996,378,2026-07-12 11:00:00,Technical Support,213,Neutral,Resolved
+997,360,2026-07-12 12:00:00,Password Reset,504,Positive,Resolved
+998,952,2026-07-12 13:00:00,Refund Request,569,Negative,Pending
+999,469,2026-07-12 14:00:00,Technical Support,225,Positive,Pending
+1000,851,2026-07-12 15:00:00,Password Reset,368,Neutral,Escalated to Human
